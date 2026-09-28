@@ -1,0 +1,9 @@
+{
+  "name": "ResearchPilot",
+  "description": "Autonomous Research & Analysis Agent with structured planning, multi-tool execution, deterministic validation, and automated failure recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
